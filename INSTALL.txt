@@ -1,0 +1,8 @@
+Instructions for install:
+Download zip, unzip using command line, and open file inside ginrummy directory.
+
+Instructions for build:
+Run "make" to build and open utop.
+If short cuts to main.byte and test.byte on your pc are present in the folder 
+make sure to remove any such shortcuts before running make build
+Run "make play" to start game play. 

@@ -1,0 +1,7 @@
+We measured the lines of code in our directory using the VSCodeCounter tool. 
+This determined that there are 2962 lines of ocaml code in our directory (not
+including comments). 
+
+After subtracting the 1358 lines of ocaml code in the test.ml file as well as 
+the 76 lines of ocaml code that are essentially just strings representing the 
+rules (in files gui.ml and main.ml), this leaves us with 1528 lines of code. 
